@@ -1,0 +1,6 @@
+git clone
+git add -A
+git commit -m"..."
+git log
+	push origin master
+	pull

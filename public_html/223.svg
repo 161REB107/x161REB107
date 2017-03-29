@@ -1,0 +1,15 @@
+ <svg width="150%" height="150%" version="1.1"
+xmlns="http://www.w3.org/2000/svg">
+
+<polyline points="20,20 40,25 60,40 80,120 120,140 200,180"
+  style="fill:none;stroke:green;stroke-width:3" />
+
+<text x="90" y="80" fill="#000000">
+Lauzta līnija Rolands</text>
+</svg>
+
+
+
+
+
+
