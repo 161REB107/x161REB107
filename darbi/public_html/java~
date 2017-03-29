@@ -1,0 +1,11 @@
+<HTML>
+<body>
+<h1 onclick="kliks(this)">Uzspied!!!</h1> 
+<h1 onclick="getElementById()">Nespied!!!</h1> 
+<h1 id="sekcija" onclick="kliks(this)">AAAAAAAAAAA!!!</h1> 
+</body>
+<script>
+function kliks(obj){
+obj.innerHTML='HA!HA!HA!'    }
+</script>
+</HTML>

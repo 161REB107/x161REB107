@@ -1,0 +1,12 @@
+<HTML>
+<body>
+<img class="irc_mi" src="http://img.fotoblog.lv/406/661/900.jpg" alt="Attēlu rezultāti vaicājumam “piziks”" onload="google.aft&amp;&amp;google.aft(this)" style="margin-top: 0px;" width="575" height="448" onmouseover='citabilde(this)' onmouseleave='cita(this)'
+
+</body>
+<script>
+function citabilde(obj){
+obj.src='http://thesenewtimes.com/wp-content/uploads/2011/12/Idea-Light-Bulp.jpg'    }
+function cita(obj){
+obj.src='http://img.fotoblog.lv/406/661/900.jpg'    }
+</script>
+</HTML>

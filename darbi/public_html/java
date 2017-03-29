@@ -1,0 +1,16 @@
+<HTML>
+<BODY>
+<H1 onclick="marts('sekcija');">UZSPIED MANI</H1>
+<H2 onclick="marts(this)">super</H2>
+<div id="sekcija" onclick="marts(this)">tralala</div>
+</BODY>
+
+<script>
+function marts(obj) {
+	var adr = document.getElementById(obj);
+	adr.innerHTML='OK';
+}
+</script>
+
+</HTML>
+
