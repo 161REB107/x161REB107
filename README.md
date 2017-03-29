@@ -4,3 +4,7 @@ PO4
 + Latex
 + Tīmekļa tehnoloģijas un HTML Fails
 + Dinamiskais dizains izmantojot JavaScript
+
+==================================================
+10.46 Es sāku apgūt git versiju kontroles sistēmu!
+
